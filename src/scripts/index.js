@@ -3,14 +3,14 @@ var scene = document.getElementById("scene");
 var parallaxInstance = new Parallax(scene);
 
 var keys = [
-  "Mercury",
-  "Venus",
-  "Earth",
+  "Merkury",
+  "Wenus",
+  "Ziemia",
   "Mars",
-  "Jupiter",
+  "Jowisz",
   "Saturn",
-  "Uranus",
-  "Neptune"
+  "Uran",
+  "Neptun"
 ];
 var slider = new Swiper(".swiper-container", {
   // Optional parameters
