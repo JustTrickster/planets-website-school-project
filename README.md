@@ -7,8 +7,8 @@ Check This Out! :earth_africa:
 
 <a href="https://planety-sebastianskowron.netlify.app/" target="blank_">planety-sebastianskowron</a>
 
-<img src="src/images/readme-front.png" width="45%"></img>
-<img src="src/images/readme-earth.png" width="45%"></img>
+<img src="readme-front.png" width="45%"></img>
+<img src="readme-earth.png" width="45%"></img>
 
 ### Technologies used: 
 - HTML, 
